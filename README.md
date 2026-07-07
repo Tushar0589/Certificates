@@ -31,7 +31,7 @@ I'm passionate about:
 | Azure Network Engineer Associate | **Microsoft** | 🚧 Preparing |
 | Azure Administrator Associate | **Microsoft** | 🚧 Preparing |
 | CCNA | **CISCO** | 🚧 Preparing |
-|  |  | 🚧 Preparing |
+| Professional Networking for Career Growth | **HP LIFE** | ✅ |
 
 ---
 
