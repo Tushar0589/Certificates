@@ -32,6 +32,7 @@ I'm passionate about:
 | Azure Administrator Associate | **Microsoft** | 🚧 Preparing |
 | CCNA | **CISCO** | 🚧 Preparing |
 | Professional Networking for Career Growth | **HP LIFE** | ✅ |
+| Certified LLM Security Professional | **Red Team Leaders** | ✅ |
 
 ---
 
