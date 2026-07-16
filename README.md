@@ -27,7 +27,7 @@ I'm passionate about:
 | KCNA | **Linux Foundation** | ✅ |
 | HTML Essentials | **Cisco** | ✅ |
 | Docker For Absolute Beginner - Hands on DevOps | **UDEMY** | ✅ |
-| SQL AI Developer (DP-800) | **Microsoft** | 🚧 Preparing |
+| SQL AI Developer (DP-800) | **Microsoft** | ✅ |
 | Azure Network Engineer Associate | **Microsoft** | 🚧 Preparing |
 | Azure Administrator Associate | **Microsoft** | 🚧 Preparing |
 | CCNA | **CISCO** | 🚧 Preparing |
